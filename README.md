@@ -21,25 +21,37 @@ Welcome to the Real-Time Chat App project! This application is built using the M
 - ⏳ **And Much More!**
 
 ## Screenshots
-
-### Signup Page
+<div align='center'>
+# Signup Page
+<div align="center">
 <img width="600" alt="signup" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/a5ca8e96-8a0a-4ad9-9621-ac8108ccd470">
+</div>
 
-### Login Page
+# Login Page
+<div align="center">
 <img width="600" alt="Login" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/b2462cf2-86a8-4516-9694-185a77e233cf">
+</div>
 
-### Conversation Page
+# Conversation Page
+<div align="center">
 <img width="600" alt="conversation" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/c3e1f024-0f4d-4c82-9bc8-abc645ccbea3">
+</div>
 
-### Lobby Page
+# Lobby Page
+<div align="center">
 <img width="600" alt="app_demo" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/43e2ad9d-c2fd-4b7a-b2c8-894dcda570b2">
+</div>
 
-### Server Structure
+# Server Structure
+<div align="center">
 <img width="400" alt="server" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/6cddf0c4-47df-4b35-a790-c653fc18a080">
+</div>
 
-### Client Structure
+# Client Structure
+<div align="center">
 <img width="400" alt="client" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/d3101e50-ceb1-4157-bcd1-b7cd7ff86727">
-
+</div>
+</div>
 ## Setup
 
 ### 1. Configure Environment Variables
