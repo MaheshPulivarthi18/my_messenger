@@ -2,8 +2,15 @@
 
 Welcome to the Real-Time Chat App project! This application is built using the MERN stack (MongoDB, Express, React, Node.js) combined with Socket.io for real-time communication, TailwindCSS for styling, and Daisy UI for UI components.
 
-## Features
+## Live
 
+<p align="center">
+  <a href="https://my-messenger-1.onrender.com/login" target="_blank">
+    <img src="https://img.shields.io/badge/Live%20App-Click%20Here-brightgreen?style=for-the-badge" alt="Live App">
+  </a>
+</p>
+
+## Features
 - 🌟 **Tech Stack**: MERN + Socket.io + TailwindCSS + Daisy UI
 - 🎃 **Authentication & Authorization**: Secure authentication and authorization using JWT (JSON Web Tokens)
 - 👾 **Real-time Messaging**: Instant messaging functionality powered by Socket.io
@@ -33,7 +40,6 @@ Welcome to the Real-Time Chat App project! This application is built using the M
 ### Client Structure
 <img width="400" alt="client" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/d3101e50-ceb1-4157-bcd1-b7cd7ff86727">
 
-
 ## Setup
 
 ### 1. Configure Environment Variables
@@ -45,7 +51,6 @@ PORT=...
 MONGO_DB_URI=...
 JWT_SECRET=...
 NODE_ENV=...
-
 
 ### Build the app
 
