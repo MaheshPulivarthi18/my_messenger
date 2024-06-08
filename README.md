@@ -22,6 +22,7 @@ Welcome to the Real-Time Chat App project! This application is built using the M
 
 ## Screenshots
 <div align='center'>
+  
 # Signup Page
 <div align="center">
 <img width="600" alt="signup" src="https://github.com/MaheshPulivarthi18/my_messenger/assets/134507390/a5ca8e96-8a0a-4ad9-9621-ac8108ccd470">
