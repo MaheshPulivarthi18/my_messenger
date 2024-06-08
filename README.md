@@ -1,4 +1,4 @@
-# MERN Stack Real-Time Chat Application
+# MERN Stack Real-Time Chat Application version-1
 
 Welcome to the Real-Time Chat App project! This application is built using the MERN stack (MongoDB, Express, React, Node.js) combined with Socket.io for real-time communication, TailwindCSS for styling, and Daisy UI for UI components.
 
